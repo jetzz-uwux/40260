@@ -1,0 +1,6 @@
+<svg width="22" height="22" stroke="magenta" xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 -7 22 22">
+        <line x1="2" y1="4" x2="20" y2="4"></line>
+        <line x1="2" y1="9" x2="20" y2="9"></line>
+        <line x1="2" y1="14" x2="20" y2="14"></line>
+</svg>
